@@ -1,13 +1,13 @@
 # EmmaDolsonMIST4610GroupProject2
 
-#21479_8 Members
+# 21479_8 Members
 
-#Dataset
+# Dataset
 
-#Questions
+# Questions
 
-#Manipulations
+# Manipulations
 
-#Analysis and Results
+# Analysis and Results
 
-#Tableau Workbook
+# Tableau Workbook
