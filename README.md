@@ -13,13 +13,12 @@ Feature Descriptions:
 Country: Country in question
 Energy_type: Type of energy source
 Year: Year the data was recorded
-Energy_consumption: Amount of Consumption for the specific energy source, measured (quad Btu)
-- Quad Btu = 10¹⁵ British thermal unit
+Energy_consumption: Amount of Consumption for the specific energy source, measured (quad Btu = 10¹⁵ British thermal unit)
 Energy_production: Amount of Production for the specific energy source, measured (quad Btu)
 GDP: Countries GDP at purchasing power parities, measured (Billion 2015$ PPP)
 Population: Population of specific Country, measured (Mperson)
 Energy_intensity_per_capita: Energy intensity is a measure of the energy inefficiency of an economy
-- Calculated as units of energy per unit of capita (capita = individual person), measured (MMBtu/person)
+Calculated as units of energy per unit of capita (capita = individual person), measured (MMBtu/person)
 Energy_intensity_by_GDP: Energy intensity is a measure of the energy inefficiency of an economy. It is calculated as units of energy per unit of GDP, measred (1000 Btu/2015$ GDP PPP)
 CO2_emission: The amount of C02 emitted, measured (MMtonnes CO2)
 
