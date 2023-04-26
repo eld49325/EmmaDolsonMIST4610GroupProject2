@@ -38,10 +38,6 @@ The visualization between Population and GDP shows us there may not be a strong 
 
 In the bottom two graphs, we ran a linear regression on the correlation between CO2 emissions and population and the correlation between CO2 emissions and GDP. For both population and GDP, the p-values were less than 0.0001  and reaffirmed our hypothesis that they were statistically significant in contributing to CO2 emissions. The R-squared for CO2 emissions and GDP was 0.8693, which was higher than the R-squared between CO2 emissions and population of 0.6276. This answers our question as the CO2 emissions and GDP has a stronger correlation than the correlation between CO2 emissions and population. The implication of our findings suggests economic policies may have a stronger effect on reducing CO2 emissions than population control.
 
-
-# Manipulations
-No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and exclude countries that no longer exist (e.g. USSR, West and East Germany)
-
 # Question 2 
 The Paris Climate Agreement is a global treaty that was adopted in 2015 by 196 countries with the goal of limiting global warming to well below 2°C above pre-industrial levels and pursuing efforts to limit it to 1.5°C. The agreement requires each country to set its own targets for reducing greenhouse gas emissions and regularly report on their progress. While many countries have made efforts to reduce their greenhouse gas emissions, some countries' commitments fall short of the global warming goal and other countries have withdrawn from the agreement or not yet ratified it. In 2017, the U.S. was one country that withdrew from the Paris Climate Agreement only to rejoin it in five years later. With the controversy surrounding its' validity, we used our datset to answer the question:
 
@@ -50,3 +46,5 @@ How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 # Question 2 Analysis and Results
 ![Q2Dashboard](https://user-images.githubusercontent.com/128401988/234453333-f871489e-2f06-4532-bb6e-2022346710fb.png)
 
+# Manipulations
+No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and exclude countries that no longer exist (e.g. USSR, West and East Germany).
