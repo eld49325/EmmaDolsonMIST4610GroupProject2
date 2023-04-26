@@ -47,4 +47,11 @@ How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 ![Q2Dashboard](https://user-images.githubusercontent.com/128401988/234465683-88a8636a-5fde-4411-835d-14cca78895ab.png)
 
 # Manipulations
-No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and exclude countries that no longer exist (e.g. USSR, West and East Germany).
+No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and to exclude countries that no longer exist (e.g. USSR, West and East Germany).
+
+# Sources
+Chestney, N. (2018, March 22). Global carbon emissions hit record high in 2017. Reuters. Retrieved April 26, 2023, from https://www.reuters.com/article/us-energy-carbon-iea/global-carbon-emissions-hit-record-high-in-2017-idUSKBN1GY0RB
+
+Guo, X., Xiao, B., & Song, L. (2022, July 29). What cause the decline of energy intensity in China's cities? A comprehensive panel-data analysis. ScienceDirect. Retrieved April 26, 2023, from https://www.sciencedirect.com/science/article/pii/S095965261932030X#sec4
+
+Lai, O. (2021, September 17). Every G20 Country Is Failing to Meet Paris Agreement On Climate Change. Earth.Org. Retrieved April 26, 2023, from https://earth.org/every-g20-country-is-failing-to-meet-paris-agreement-on-climate-change/
