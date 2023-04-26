@@ -29,6 +29,7 @@ Is there a stronger correlation between CO2 emissions and GDP or CO2 emissions a
 
 # Question 1 Analysis and Results
 ![Q1Dashboard](https://user-images.githubusercontent.com/128401988/234453303-e20e7c0e-2ff5-451b-8cb2-669f63dd2d14.png)
+
 For the top two graphs, we examined the top five countries with the highest CO2 emissions overall (China, US, India, Russia, and Japan). In doing so, the data points are more visible and eliminate less significant countries that could possibly skew the data. 
 
 Looking at the visualization between Energy Intensity by GDP vs Energy Intensity per capita, we observed both measures following similar trends year to year with the exception of China. After 2013, China's Energy Intensity by GDP decreases while its Energy Intensity per capita continues to increase. Upon further research, we found this was a result of China's energy restructuring to increase production from its statewide power generators and reduce its reliance on coal. With the other countries' Energy Intensity by GDP and Energy Intensity per capita following parallel trends, the graph reaffirms our hypothesis that GDP and population are contributing factors towards CO2 emissions.
@@ -42,6 +43,9 @@ In the bottom two graphs, we ran a linear regression on the correlation between 
 No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and exclude countries that no longer exist (e.g. USSR, West and East Germany)
 
 # Question 2 
+The Paris Climate Agreement is a global treaty that was adopted in 2015 by 196 countries with the goal of limiting global warming to well below 2°C above pre-industrial levels and pursuing efforts to limit it to 1.5°C. The agreement requires each country to set its own targets for reducing greenhouse gas emissions and regularly report on their progress. While many countries have made efforts to reduce their greenhouse gas emissions, some countries' commitments fall short of the global warming goal and other countries have withdrawn from the agreement or not yet ratified it. In 2017, the U.S. was one country that withdrew from the Paris Climate Agreement only to rejoin it in five years later. With the controversy surrounding its' validity, we used our datset to answer the question:
+
+How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 
 # Question 2 Analysis and Results
 ![Q2Dashboard](https://user-images.githubusercontent.com/128401988/234453333-f871489e-2f06-4532-bb6e-2022346710fb.png)
