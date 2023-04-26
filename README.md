@@ -7,7 +7,7 @@
 - [Donovan Vanderpool]()
 - [Kaden Williams]()
 # Dataset
-This data was pulled from the US Energy Administration and joined together for an easier analysis. Its a collection of major factors that play into C02 emissions, from the Production and Consumption of each type of major energy source for each country to its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's through 2019.
+This data was pulled from the US Energy Administration and joined together for an easier analysis. It is a collection of major factors that play into C02 emissions, from the Production and Consumption of each type of major energy source for each country to its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's through 2019.
 
 Feature Descriptions:
 - Country: Country in question
@@ -27,11 +27,13 @@ People have employed several approaches to curbing CO2 emissions, ranging from p
 Is there a stronger correlation between CO2 emissions and GDP or CO2 emissions and population? 
 
 # Question 1 Analysis and Results
+![Q1Dashboard](https://user-images.githubusercontent.com/128401988/234453303-e20e7c0e-2ff5-451b-8cb2-669f63dd2d14.png)
 
 # Manipulations
+No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and exclude countries that no longer exist (e.g. USSR, West and East Germany)
 
 # Question 2 
 
 # Question 2 Analysis and Results
+![Q2Dashboard](https://user-images.githubusercontent.com/128401988/234453333-f871489e-2f06-4532-bb6e-2022346710fb.png)
 
-# Tableau Workbook
