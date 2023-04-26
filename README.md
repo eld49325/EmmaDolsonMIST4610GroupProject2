@@ -44,7 +44,7 @@ The Paris Climate Agreement is a global treaty that was adopted in 2015 by 196 c
 How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 
 # Question 2 Analysis and Results
-![Q2Dashboard](https://user-images.githubusercontent.com/128401988/234453333-f871489e-2f06-4532-bb6e-2022346710fb.png)
+![Q2Dashboard](https://user-images.githubusercontent.com/128401988/234465428-afb337f3-2eee-41a4-853e-d88cc47bc82c.png)
 
 # Manipulations
 No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and exclude countries that no longer exist (e.g. USSR, West and East Germany).
