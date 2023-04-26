@@ -18,8 +18,8 @@ Feature Descriptions and Data Types:
 - Energy_production: Amount of Production for the specific energy source, measured (quad Btu) (Decimal)
 - GDP: Countries GDP at purchasing power parities, measured (Billion 2015$ PPP) (Decimal)
 - Population: Population of specific Country, measured (Mperson) (Decimal)
-- Energy_intensity_per_capita: Energy intensity is a measure of the energy inefficiency of an economy (Calculated as units of energy per unit of capita, measured as MMBtu/person) (Decimal)
-- Energy_intensity_by_GDP: Energy intensity is a measure of the energy inefficiency of an economy. It is calculated as units of energy per unit of GDP, measred (1000 Btu/2015$ GDP PPP) (Decimal)
+- Energy_intensity_per_capita: Energy intensity is a measure of the energy inefficiency of an economy (MMBtu/person) (Decimal)
+- Energy_intensity_by_GDP: Energy intensity is a measure of the energy inefficiency of an economy (1000 Btu/2015$ GDP PPP) (Decimal)
 - CO2_emission: The amount of C02 emitted, measured (MMtonnes CO2) (Decimal)
 
 # Question 1
