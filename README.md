@@ -3,9 +3,9 @@
 # 21479_8 Members
 - [Emma Dolson](https://github.com/eld49325/EmmaDolson_MIST4610GroupProject2)
 - [Hannah Kelly](https://github.com/hannahkelly98765/MIST-4610-Tableau)
-- [Shir Kochi]()
-- [Donovan Vanderpool]()
-- [Kaden Williams]()
+- [Shir Kochi](https://github.com/shirkorchi/MIST4610-Project2)
+- [Donovan Vanderpool](https://github.com/donovanv2/MIST4610Project2)
+- [Kaden Williams](https://github.com/kadenwilliams1/MIST4610Project2)
 
 # Dataset
 This data was pulled from the US Energy Administration and joined together for an easier analysis. It is a collection of major factors that play into CO2 emissions, from the Production and Consumption of each type of major energy source for each country to its pollution rating each year. It also includes each countries GDP, Population, Energy intensity per capita (person), and Energy intensity per GDP (per person GDP). All the data spans all the way from the 1980's through 2019.
