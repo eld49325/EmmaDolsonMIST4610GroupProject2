@@ -28,7 +28,7 @@ People have employed several approaches to curbing CO2 emissions, ranging from p
 Is there a stronger correlation between CO2 emissions and GDP or CO2 emissions and population? 
 
 # Question 1 Analysis and Results
-![Q1Dashboard](https://user-images.githubusercontent.com/128401988/234453303-e20e7c0e-2ff5-451b-8cb2-669f63dd2d14.png)
+![Screen Shot 2023-04-26 at 12 06 15 AM](https://user-images.githubusercontent.com/128401988/234467370-adc7c351-58fd-4da2-9656-9ade049310af.png)
 
 For the top two graphs, we examined the top five countries with the highest CO2 emissions overall (China, US, India, Russia, and Japan). In doing so, the data points are more visible and eliminate less significant countries that could possibly skew the data. 
 
