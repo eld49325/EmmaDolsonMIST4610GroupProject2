@@ -46,6 +46,13 @@ How effective has the Paris Climate Agreement been in reducing CO2 emissions?
 # Question 2 Analysis and Results
 ![Q2Dashboard](https://user-images.githubusercontent.com/128401988/234465683-88a8636a-5fde-4411-835d-14cca78895ab.png)
 
+Visualizing CO2 emissions worldwide, CO2 levels did decline in the two years after the agreement's inception from 2015 to 2017. However, CO2 emissions reached a record high after 2017 and from the dataset we can see they continue to increase through 2019. The International Energy Agency (IEA) accounted two-thirds of the global emissions increase to Asian countries, particularly China.
+
+A Climate Action Tracker (CAT) report found that all G20 countries were failing to meet the commitment made in the Paris Agreement and several countries' pledges were highly insufficient in reducing CO2 emissions at a significant level. Four G20 countries (Britain, United States, Mexico and Japan) did experience declines in their CO2 emissions during 2017 but they are far outweighed by the increases in emissions from China and Russia.
+
+By focusing on the CO2 emissions of Asian countries, we can see the top three emitters (China, India, and Russia) all increased their emissions after 2017. It is also important to note those three are also a part of the Paris Climate Agreement. In terms of Asian countries that have not ratified the agreement, major oil producers Iran and Iraq also saw an increase in CO2 emissions. 
+
+In an attempt to answer our question, the Paris Climate Agreement is a loose commitment to reducing CO2 emissions. Without a regulatory body, countries are not held accountable for their pledges or their actions taken to honor them. For countries like the US who made sufficient commitments to the agreement, they saw a reduction in CO2 emissions. However, if other countries like China and Russia, are allowed to continue increasing their CO2 emissions without consequence, the progress made by others becomes mute. The implication of this is dangerous as it could lead to the prisoner's dilemma in which case countries that are currently abiding by the agreement choose not to for their own individual benefits.
 # Manipulations
 No manipulations or calculations were performed on the data set. For relevance, we filtered our time period to the decade of 2009-2019 to reduce outliers and to exclude countries that no longer exist (e.g. USSR, West and East Germany).
 
